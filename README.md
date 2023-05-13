@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weitian1207
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the C language
+- 🌱 I’m currently learning the C and java language
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me 2840955779@qq.com
 
